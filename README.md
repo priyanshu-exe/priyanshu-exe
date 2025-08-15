@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Priyanshu Das 👾</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-exe&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-exe" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-exe&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-exe" /> </p> -->
 <div align = "center">
   <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" width="300"/>
 
@@ -11,15 +11,16 @@
 
 ## About Me
 - 🧑🏼‍🎓 Final Year, pursuing B.Tech in Information Technology at Vellore Institute of Technology
-- ✒️ Currently learning about Generative AI and working with Large Language Models and cloud computing
-- 🌱 I’m currently learning **DevOps**
-- 📫 How to reach me **priyanshudasbwn02@gmail.com**
+- 💡 Skilled in DevOps practices, focusing on automation, deployment, and system optimization
+- 🎗️ Experienced in developing and implementing AI/ML solutions for real-world applications
+- ✒️ Currently exploring Generative AI and working with Large Language Models
+- 📫 Reach me by **priyanshudasbwn02@gmail.com**
 
 
 ## Technologies I've worked on
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,java,python,mysql,html,css,javascript,react,bash,kubernetes,docker,jenkins,terraform,linux,sklearn,tensorflow,fastapi,flask,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,git,java,python,mysql,html,css,javascript,react,bash,kubernetes,docker,jenkins,terraform,linux,sklearn,tensorflow,fastapi,flask,vscode,&perline=10" />
   </a>
 </p>
 
