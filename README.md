@@ -9,7 +9,7 @@
 </div>
 </div>
 
-## About Me
+## About Me 🙋‍♂️
 - 🧑🏼‍🎓 Final Year, pursuing B.Tech in Information Technology at Vellore Institute of Technology
 - 💡 Skilled in DevOps practices, focusing on automation, deployment, and system optimization
 - 🎗️ Experienced in developing and implementing AI/ML solutions for real-world applications
@@ -17,7 +17,7 @@
 - 📫 Reach me by **priyanshudasbwn02@gmail.com**
 
 
-## Technologies I've worked on
+## Technologies I've worked on 💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,java,python,mysql,html,css,javascript,react,bash,kubernetes,docker,jenkins,terraform,linux,sklearn,tensorflow,fastapi,flask,vscode,&perline=10" />
