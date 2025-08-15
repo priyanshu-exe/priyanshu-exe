@@ -11,8 +11,8 @@
 
 ## About Me 🙋‍♂️
 - 🧑🏼‍🎓 Final Year, pursuing B.Tech in Information Technology at Vellore Institute of Technology
-- 💡 Skilled in DevOps practices, focusing on automation, deployment, and system optimization
 - 🎗️ Experienced in developing and implementing AI/ML solutions for real-world applications
+- 💡 Skilled in DevOps practices, focusing on automation, deployment, and system optimization
 - ✒️ Currently exploring Generative AI and working with Large Language Models
 - 📫 Reach me by **priyanshudasbwn02@gmail.com**
 
