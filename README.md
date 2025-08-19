@@ -20,7 +20,7 @@
 ## Technologies I've worked on 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,java,python,mysql,html,css,javascript,react,bash,kubernetes,docker,jenkins,terraform,linux,sklearn,tensorflow,fastapi,flask,vscode,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,git,java,python,mysql,html,css,javascript,react,bash,kubernetes,docker,jenkins,terraform,linux,sklearn,tensorflow,fastapi,flask,pytorch,&perline=10" />
   </a>
 </p>
 
